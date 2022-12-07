@@ -1,0 +1,1 @@
+_local_projects-t3_p_falciparum_samples_other_NF54_alignments_v24.merged_all.sorted_and_recalibrated.position-coverage.gz_output, {'1290240:1443449': 156.60526075321454} 
