@@ -1,0 +1,1 @@
+/local/projects-t3/p_falciparum/samples/other/NF54/alignments_v24.merged/all.sorted_and_recalibrated.position-coverage.gz
